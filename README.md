@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🦖 Dino Dev
 
-<!--
-**Gordep2347/Gordep2347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/PkLPBuysoz6OACwFzZ/giphy.gif"
+    width="350"
+    alt="Dinossauro animado"
+  />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>🐉 RUGINDO NO CÓDIGO!</strong>
+  <br>
+  💻 Python • HTML • CSS • Games
+</p>
